@@ -1,4 +1,4 @@
-# Goal - crate phone-book REST API
+# Goal - crate phone-book REST API by mockapi.io
 
 ## Opportunities:
 
